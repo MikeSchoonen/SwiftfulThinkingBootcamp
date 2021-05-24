@@ -12,6 +12,7 @@
 		8AD8B162265C3A2400D2190F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8AD8B161265C3A2400D2190F /* Assets.xcassets */; };
 		8AD8B165265C3A2400D2190F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8AD8B164265C3A2400D2190F /* Preview Assets.xcassets */; };
 		8AD8B16D265C3A6E00D2190F /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AD8B16C265C3A6E00D2190F /* TextBootcamp.swift */; };
+		8AD8B16F265C3EE000D2190F /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AD8B16E265C3EE000D2190F /* ShapesBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8AD8B164265C3A2400D2190F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8AD8B166265C3A2400D2190F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8AD8B16C265C3A6E00D2190F /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
+		8AD8B16E265C3EE000D2190F /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				8AD8B15D265C3A2300D2190F /* SwiftfulThinkingBootcampApp.swift */,
 				8AD8B15F265C3A2300D2190F /* ContentView.swift */,
 				8AD8B16C265C3A6E00D2190F /* TextBootcamp.swift */,
+				8AD8B16E265C3EE000D2190F /* ShapesBootcamp.swift */,
 				8AD8B161265C3A2400D2190F /* Assets.xcassets */,
 				8AD8B166265C3A2400D2190F /* Info.plist */,
 				8AD8B163265C3A2400D2190F /* Preview Content */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8AD8B16F265C3EE000D2190F /* ShapesBootcamp.swift in Sources */,
 				8AD8B160265C3A2300D2190F /* ContentView.swift in Sources */,
 				8AD8B16D265C3A6E00D2190F /* TextBootcamp.swift in Sources */,
 				8AD8B15E265C3A2300D2190F /* SwiftfulThinkingBootcampApp.swift in Sources */,
